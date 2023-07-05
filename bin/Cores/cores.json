@@ -156,6 +156,11 @@
     "name": "FCEUmm",
     "systems": [7]
   },
+  "fceumm_libretro":{
+    "name": "FCEUmm",
+    "extensions": "fds",
+    "systems": [81]
+  },
   "flycast_libretro":{
     "name": "Flycast",
     "extensions": "zip|7z",
@@ -432,6 +437,11 @@
   "mesen_libretro":{
     "name": "Mesen",
     "systems": [7]
+  },
+  "mesen_libretro":{
+    "name": "Mesen",
+    "extensions": "fds",
+    "systems": [81]
   },
   "mesen-s_libretro":{
     "name": "Mesen-S",
